@@ -17,11 +17,11 @@ This KYC page verifies that One Member of the project has successfully completed
 		
 
 
-![This is an face image](/assets/images/personFace.pn)
+![This is an face image](/assets/images/personFace.png)
 		
 
-![This is an cnic image](/assets/images/cnicImage.pn)
+![This is an cnic image](/assets/images/cnicImage.png)
 		
 
-![This is an passport image](/assets/images/passportImage.pn)
+![This is an passport image](/assets/images/passportImage.png)
 	
