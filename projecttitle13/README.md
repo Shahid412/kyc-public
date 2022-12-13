@@ -1,5 +1,5 @@
 
-		*** project title 13 KYC Verification ***
+## project title 13 KYC Verification
 		
 
 
@@ -17,11 +17,11 @@ This KYC page verifies that One Member of the project has successfully completed
 		
 
 
-![This is an face image](/assets/images/personFace.png)
+![This is an face image](/personFace.png)
 		
 
-![This is an cnic image](/assets/images/cnicImage.png)
+![This is an cnic image](/cnicImage.png)
 		
 
-![This is an passport image](/assets/images/passportImage.png)
+![This is an passport image](/passportImage.png)
 	
