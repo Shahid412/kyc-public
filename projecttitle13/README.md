@@ -1,0 +1,27 @@
+
+		*** project title 13 KYC Verification ***
+		
+
+
+This KYC page verifies that One Member of the project has successfully completed the verification process. Project info:
+		
+
+
+- Project Name: project title 13
+		
+
+- Project Website: [https://ab.com](https://ab.com)
+		
+
+- KYC Issued: Tue Dec 13 2022 18:00:00 GMT+0500 (Pakistan Standard Time)
+		
+
+
+![This is an face image](/assets/images/personFace.pn)
+		
+
+![This is an cnic image](/assets/images/cnicImage.pn)
+		
+
+![This is an passport image](/assets/images/passportImage.pn)
+	
